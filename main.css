@@ -1,6 +1,55 @@
 body {
 	background-color: lightblue;
 }
+h1 {
+	text-align: center;
+}
+h6 {
+	text-align: center;
+}
+#copyright {
+	text-align: center;
+}
 .social-img {
 	width: 350px;
+}
+#nav-bar li a:hover {
+  color: coral;
+  background-color: gray;
+}
+#nav-bar li a:active {
+	padding-right: 5px;
+	padding-left: 5px;
+}
+/*Card Styling*/
+.product {
+	margin: 1%;
+	width: 400px;
+	border: 2px solid slategray;
+}
+
+.description > * {
+	text-align: left; 
+	margin: 0;
+}
+
+.description {
+	padding: 2%;
+}
+
+.description h6{
+	font-size: 2em;
+}
+
+.title {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Lemonada', cursive;
+}
+
+/*Card Layout*/
+#blog-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; 
 }
