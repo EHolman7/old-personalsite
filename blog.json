@@ -1,0 +1,52 @@
+{
+  "blog": [
+
+    {
+      "name": "JavaScript",
+      "date": "July 24th, 2017 - July 29th, 2017",
+      "description": "This past week we started JavaScript in class. This was definitely a little bit of an eye opener. Functions, loops, arrays, variables, and objects were thrown at us in a java crash course just in a couple days. At first it was a little overwhelming. After trying to keep my head above water, things started to connect. It is now becoming easier seeing the functions and loops in my head. I am still trying to hone in on the coding, but I can now see how they work. The current project I am trying to finish is the coin counter. This practice is what has really helped me understand the function. This is a group effort. We first started figuring a formula which would give us the solution we were looking for then broke it down to put into code. I have also added JavaScript to this blog page. Java is going to be very useful on this page as I update it and add in more blogs. No more need to write anything else in html, it can all be easily updated in the JavaScript file. I am really looking forward to what is next. As difficult it is to take all this in, I still am excited for what is to come next. Each topic gives me more challenges to overcome. It is like drinking from a fire hose, but it is easier when you are thirsty."
+    },
+
+    {
+      "name": "Deeper into Github",
+      "date": "July 31st, 2017 - Aug. 5th, 2017",
+      "description": "Class wise was a little lighter week. We did have a couple interesting projects to better our JavaScript skills. We made a coin counter and a temperature converter. It was a stuggle to get through the functions and the code. I was very pleased with the end result. It was better than I expected. We dove much deeper into github. We learned a couple new shortcuts in the terminal with github commands. how to add and delete branches. Most importantly we learned how to work on projects together with our groups in github. We learned how to set up projects and assign tasks to eachother. This is going to be very useful since team work will be important in future projects and career positions. I am looking forward to working more with my group on these rpojects."
+    },
+
+    {
+      "name": "Working on Group Projects",
+      "date": "July 31st, 2017 - August 5th, 2017",
+      "description": "Now is when I started to feel like a developer. All that we have down has started to sink in, but I assume this feeling won't last long. We are finally starting to not only work in groups, but we are working on a project as a group. The project was to create a fake company website. My group chose to do a guinea pig clothing company. Yes, deep in the dark corners of the internet are people who dress up guinea pigs and post photos of them online. I dream to one day have that much free time in my life. It did make creating this site fun though. everything started off fine until towards the evening when all of the sudden, we started experiencing disaster. The disaster I speak of is called merge conflicts. The frustration grew quick and strong. After some quality team work we were able to overcome conflicts and merge our code successfully. Well, successfully for that night. Little did we know the next day was going to be completely unproductive. That morning our fears presented themselves once again. As soon as we had our first commit to make, all hell broke loose within our Github accounts. The day mostly consisted of us learning to merge the master branch, and pulling to master branch with a git fetch or two here and there. At the end of the week, we finished victoriously. The guinea pig clothing website was completed. The merge conflicts were all resolved. Not a single pull request was left behind"
+    },
+
+    {
+      "name": "Event Listeners",
+      "date": "August 7th, 2017 - August 12th, 2017",
+      "description": "Going further into JavaScript. As the tasks become more and more difficult, the successes are more and more rewarding. Now, not only do i know how to create buttons and text boxes, but I can make them actually do stuff. We had a fun littler project designing a temperature converter. Can you guess what this amazing app can do? You guess it, it converters temperatures from celsius to fahrenheit and vise versa. as little as this seems, I was really excited to work on it. We had to put a formula for the convertion into code. This is the first time I am actually doing something like this. The real point were the event Listeners. clicking on radio buttons to select the temp. Typing the temp down. and converting the temp. Their is also a reset button incase you wanted to convert another temperature. "
+    },
+
+    {
+      "name": "Markdown",
+      "date": "August 14th, 2017 - August 19th, 2017",
+      "description": "Markdown was more like an evening rather than a week. We were starting to dive deeper into JavaScript. Aa we are working on our projects this week, we were tought what the real purpose of that README.md file was really for. I am going to  start going through each project and update the README files. The README file is meant to give a summary and instructions of the site. I think it is pretty cool. Now just need to make time to go through and update them. who knows what they have in store for us next."
+    },
+
+    {
+      "name": "XHR",
+      "date": "August 21st, 2017 - August 26th, 2017",
+      "description": "This was week has definitely been a low point in my journey. we were introduced to XMLHttpRequests or XHR and json files, but we will get to that in a minute. We are still working on our projects that involove a bunch of vanilla JavaScript. I am starting to question where the term vanilla comes from. I like vanilla, it is a pleasing term. Vanilia JavaScript is not vanilla. It is more like rotting sewage JavaScript to me. I also feel like I am about sink further into this disgusting pit of despair before things begin to improve. Back to XHR. XHR was very interesting as well. I felt I was grasping everything until the second Json file was thown at me. "
+    },
+
+    {
+      "name": "Bootstrap and ES6",
+      "date": "August 28th, 2017 - September 2st, 2017",
+      "description": "The light is begining to break through the dark clouds. the concepts are starting to stick. I am begining to understand this demon referred to as vanilla JavaScript. Not only that but I have been given a new tool to adding to my growing knowledge in front end development. That tool is bootstrap. Bootstrapis great in the way to helps to simplify CSS styling. Infact this blog has gone from being objects in the main.js file to arrays in my new json file, and are nicely organized using bootstrap. It love all the awesome thing that bootstraphas to offer I don't even know where to start. It seems to have everything for styling. So much I might never remember it all, but I know where to find it. I will be utilizing bootstrap atleast or the rest of the class and probably long after."
+    },
+
+    {
+      "name": "Blog 8",
+      "date": "",
+      "description": "This is where my next blog post for the week will appear. Stay Tunned"
+    }
+  ]
+}
